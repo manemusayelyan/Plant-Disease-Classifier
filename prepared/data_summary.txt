@@ -1,0 +1,19 @@
+train_images: 7783
+val_images: 390
+total_images: 8173
+raw_train_labels: 82
+raw_val_labels: 71
+disease_classes: 39
+plant: 32
+
+top_disease_counts_train:
+- powdery mildew: 866
+- rust: 681
+- downy mildew: 679
+- canker: 330
+- stripe rust: 298
+- early blight: 289
+- black rot: 283
+- scab: 276
+- head scab: 259
+- leaf rust: 231

@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: plant-disease-api
+    runtime: docker
+    plan: free
+    autoDeployTrigger: commit
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health

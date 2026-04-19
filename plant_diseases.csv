@@ -1,0 +1,83 @@
+row_id,folder_name,plant_name,disease_name
+1,apple black rot,apple,black rot
+2,apple mosaic virus,apple,mosaic virus
+3,apple rust,apple,rust
+4,apple scab,apple,scab
+5,banana anthracnose,banana,anthracnose
+6,banana black leaf streak,banana,black leaf streak
+7,banana bunchy top,banana,bunchy top
+8,basil downy mildew,basil,downy mildew
+9,bean mosaic virus,bean,mosaic virus
+10,bean rust,bean,rust
+11,bell pepper blossom end rot,bell pepper,blossom end rot
+12,bell pepper powdery mildew,bell pepper,powdery mildew
+13,blueberry anthracnose,blueberry,anthracnose
+14,blueberry rust,blueberry,rust
+15,broccoli alternaria leaf spot,broccoli,alternaria leaf spot
+16,broccoli downy mildew,broccoli,downy mildew
+17,cabbage alternaria leaf spot,cabbage,alternaria leaf spot
+18,cabbage black rot,cabbage,black rot
+19,cabbage downy mildew,cabbage,downy mildew
+20,cauliflower alternaria leaf spot,cauliflower,alternaria leaf spot
+21,celery anthracnose,celery,anthracnose
+22,celery early blight,celery,early blight
+23,cherry leaf spot,cherry,leaf spot
+24,cherry powdery mildew,cherry,powdery mildew
+25,citrus canker,citrus,canker
+26,citrus greening disease,citrus,greening disease
+27,coffee berry blotch,coffee,berry blotch
+28,coffee black rot,coffee,black rot
+29,coffee leaf rust,coffee,leaf rust
+30,corn gray leaf spot,corn,gray leaf spot
+31,corn northern leaf blight,corn,northern leaf blight
+32,corn rust,corn,rust
+33,corn smut,corn,smut
+34,cucumber angular leaf spot,cucumber,angular leaf spot
+35,cucumber bacterial wilt,cucumber,bacterial wilt
+36,cucumber powdery mildew,cucumber,powdery mildew
+37,garlic rust,garlic,rust
+38,ginger leaf spot,ginger,leaf spot
+39,ginger sheath blight,ginger,sheath blight
+40,grape black rot,grape,black rot
+41,grape downy mildew,grape,downy mildew
+42,grape leaf spot,grape,leaf spot
+43,lettuce downy mildew,lettuce,downy mildew
+44,lettuce mosaic virus,lettuce,mosaic virus
+45,maple tar spot,maple,tar spot
+46,peach anthracnose,peach,anthracnose
+47,peach brown rot,peach,brown rot
+48,peach leaf curl,peach,leaf curl
+49,peach rust,peach,rust
+50,peach scab,peach,scab
+51,plum brown rot,plum,brown rot
+52,plum rust,plum,rust
+53,potato early blight,potato,early blight
+54,potato late blight,potato,late blight
+55,raspberry leaf spot,raspberry,leaf spot
+56,rice sheath blight,rice,sheath blight
+57,soybean brown spot,soybean,brown spot
+58,soybean downy mildew,soybean,downy mildew
+59,soybean frog eye leaf spot,soybean,frog eye leaf spot
+60,soybean mosaic,soybean,mosaic
+61,soybean rust,soybean,rust
+62,squash powdery mildew,squash,powdery mildew
+63,strawberry anthracnose,strawberry,anthracnose
+64,tobacco brown spot,tobacco,brown spot
+65,tobacco mosaic virus,tobacco,mosaic virus
+66,tomato bacterial leaf spot,tomato,bacterial leaf spot
+67,tomato early blight,tomato,early blight
+68,tomato late blight,tomato,late blight
+69,tomato leaf mold,tomato,leaf mold
+70,tomato mosaic virus,tomato,mosaic virus
+71,tomato septoria leaf spot,tomato,septoria leaf spot
+72,wheat bacterial leaf streak (black chaff),wheat,bacterial leaf streak (black chaff)
+73,wheat head scab,wheat,head scab
+74,wheat leaf rust,wheat,leaf rust
+75,wheat loose smut,wheat,loose smut
+76,wheat powdery mildew,wheat,powdery mildew
+77,wheat septoria blotch,wheat,septoria blotch
+78,wheat stem rust,wheat,stem rust
+79,wheat stripe rust,wheat,stripe rust
+80,zucchini bacterial wilt,zucchini,bacterial wilt
+81,zucchini downy mildew,zucchini,downy mildew
+82,zucchini powdery mildew,zucchini,powdery mildew
